@@ -13,8 +13,6 @@ This model has been trained with only 2 objects
  </div>
  <div class="column">
 <img src="https://github.com/ShankarKuchibhotla/WeaponDetectionForBodyCams/blob/main/pistol.JPG" width=250 height=250>
-  </div>
-  <div class="column">
 <img src="https://github.com/ShankarKuchibhotla/WeaponDetectionForBodyCams/blob/main/phone.JPG" width=250 height=250>
    </div>
  </div>
